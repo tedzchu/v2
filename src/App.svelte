@@ -6,14 +6,15 @@
   <h1>Teddy Chu</h1>
   <p>
     Yo! 👋 I'm <strong>Teddy</strong>, a Los Angeles-based
-    <strong>software engineer</strong>. I sometimes respond to <strong>Door</strong>, as it's the funnier (and probably not real) nickname for my full name, Theodore.
+    <strong>software engineer</strong>. I sometimes respond to
+    <strong>Door</strong>, as it's the funnier (and probably not real) nickname
+    for my full name, Theodore.
   </p>
   <p>
     I'm currently a <strong>full stack</strong> engineer at
     <strong><a href="https://www.atlassian.com/">Atlassian</a></strong>
-    building solutions to expand their
-    <strong><a href="https://www.atlassian.com/platform">platform</a></strong> more
-    efficiently.
+    building solutions to reduce friction for products trying to adopt their
+    <strong><a href="https://www.atlassian.com/platform">platform</a></strong> capabilities.
   </p>
   <p>
     I have industry experience with <strong>Java</strong>,
@@ -43,8 +44,9 @@
   <br />
   <br />
   <p>
-    Looking for more? Here's my <strong><a href="/docs/TeddyChu_Resume_10_2021.pdf">resume</a></strong>, which
-    has my email if you're looking to get in touch. Cheers!
+    Looking for more? Here's my <strong
+      ><a href="/docs/TeddyChu_Resume_10_2021.pdf">resume</a></strong
+    >, which has my email if you're looking to get in touch. Cheers!
   </p>
 </main>
 
