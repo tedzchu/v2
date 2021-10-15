@@ -39,7 +39,7 @@
   />
   <br />
   <small>
-    (My Twitter and Youtube are more gaming-oriented, and mostly inactive)
+    (My Twitter and YouTube are more gaming-oriented, and mostly inactive)
   </small>
   <br />
   <br />
